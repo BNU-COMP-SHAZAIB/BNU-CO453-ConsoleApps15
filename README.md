@@ -1,9 +1,9 @@
 # C# Console Applications App01 to App05
 | Author | Details |
 | ---- | ---- |
-**Name**: | Student Name  |
-**Student ID**: | 12345678 |
-**Course:** | Computing |
+**Name**: | Shazaib Choudhry  |
+**Student ID**: | 21818096 |
+**Course:** | Cybersecurity |
 **Module**: | CO453     |
 **Started**: | January 2021 |    
 
