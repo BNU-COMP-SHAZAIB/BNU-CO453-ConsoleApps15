@@ -49,7 +49,7 @@ namespace ConsoleAppProject
              
                 case 2:
                     Console.WriteLine("\n----------------App02 BMI Calculator---------------\n");
-                    //calculator.BmiCalculation();
+                    calculator.BmiCalculation();
                     break;
                 case 3:
                     Console.WriteLine("\n----------------App03 Student Marks----------------\n");
