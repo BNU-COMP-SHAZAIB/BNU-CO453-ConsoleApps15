@@ -46,6 +46,10 @@ namespace ConsoleAppProject.App04
             comments = new List<String>();
         }
 
+        public MessagePost()
+        {
+        }
+
         /// <summary>
         /// Record one more 'Like' indication from a user.
         /// </summary>
