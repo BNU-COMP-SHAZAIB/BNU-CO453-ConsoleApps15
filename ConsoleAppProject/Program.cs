@@ -26,14 +26,18 @@ namespace ConsoleAppProject
         {
             Console.ForegroundColor = ConsoleColor.Yellow;
 
-            Console.WriteLine("BNU CO453 Applications Programming 2020-2021!");
-            Console.WriteLine();
+            Console.WriteLine("[----BNU CO453 Applications Programming 2020-2021!----]");
+            Console.WriteLine("[-------------By Shazaib Choudhry---------------------]");
+            Console.WriteLine("[-------------App01: Distance Converter---------------]");
+            Console.WriteLine("[-------------App02: BMI Calculator-------------------]");
+            Console.WriteLine("[-------------App03: Student Marks--------------------]");
+            Console.WriteLine("[-------------App04: Social Network-------------------]");
             Console.Beep();
 
             //ConsoleHelper.DisplayHeading();
 
             //Display Choices
-            Console.WriteLine("Input the number of the app you wish to run, ex: 1");
+            Console.WriteLine("[--Input the number of the app you wish to run ex: 1--]");
             int choice = Convert.ToInt32(Console.ReadLine());
 
             App01.DistanceConverter converter = new App01.DistanceConverter();
